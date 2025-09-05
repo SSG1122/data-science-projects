@@ -1,0 +1,5 @@
+In this project I processed and analyzed NHTSA vehicle complaint data using the Microsoft Azure cloud ecosystem. 
+I ingested and transformed TXT files into partitioned .parquet format using Azure Data Factory, 
+stored the data in an Azure Data Lake Storage Gen2 instance, and built Power BI dashboards to visualize accident/fatality rates.
+
+Below are some images of the process results, and the final dashboard of the project. 
